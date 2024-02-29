@@ -1,2 +1,2 @@
-#Django
-I learnt how to initialize Django website.
+# Django
+I learned how to initialize Django website.
